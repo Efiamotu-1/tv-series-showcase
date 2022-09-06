@@ -20,7 +20,7 @@
 
 ## Website
 
-[> Coming soon !](https://mullenlucas.github.io/tv-series-showcase/dist/)
+[Website link!](https://mullenlucas.github.io/tv-series-showcase/dist/)
 
 ## Information
 
